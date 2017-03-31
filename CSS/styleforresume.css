@@ -1,0 +1,25 @@
+@import url ('https://fonts.googleapis.com/css?family=Dosis|Josefin+Sans|Noto+Sans|Questrial|Raleway');
+
+
+s
+b1 {
+    font-family:'Noto Sans', sans-serif;
+    font-size:10px;
+    color:gray;
+}
+
+.logo{
+    width: 200px;
+    margin-top: 50px;
+}
+
+
+.resumee{
+    width: 700px;
+}
+
+.logos {
+    width: 40px;
+    margin-top: 100px;
+    margin-left: 70%;
+}
