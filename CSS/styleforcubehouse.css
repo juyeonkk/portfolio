@@ -1,0 +1,50 @@
+@import url ('https://fonts.googleapis.com/css?family=Dosis|Josefin+Sans|Noto+Sans|Questrial|Raleway');
+
+t1 {
+    font-family: 'Questrial', sans-serif;
+    font-size: 20px;
+    color: black;
+}
+
+.title {
+    margin-left: 40px;
+}
+
+t2 {
+    font-family: 'Questrial', sans-serif;
+    font-size: 16px;
+    color: dimgray;
+}
+
+b1 {
+    font-family:'Noto Sans', sans-serif;
+    font-size:10px;
+    color:gray;
+}
+
+.subtitle {
+    margin-left: 40px;
+}
+
+.description {
+    margin-top: 20px;
+    margin-left: 40px;
+}
+
+.logo {
+    width: 200px;
+    margin-top: 10px;
+}
+
+.logos {
+    width: 40px;
+    margin-top: 100px;
+    margin-left: 70%;
+}
+
+.cubehouse {
+    width: 40%;
+    margin-top: 20px;
+    margin-left: 40px;
+    
+}
